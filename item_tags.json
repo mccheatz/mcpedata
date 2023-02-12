@@ -216,19 +216,23 @@
   ],
   "minecraft:leather_chestplate": [
     "minecraft:leather_tier",
-    "minecraft:is_armor"
+    "minecraft:is_armor",
+    "minecraft:is_chestplate"
   ],
   "minecraft:leather_helmet": [
     "minecraft:leather_tier",
-    "minecraft:is_armor"
+    "minecraft:is_armor",
+    "minecraft:is_helmet"
   ],
   "minecraft:leather_boots": [
     "minecraft:leather_tier",
-    "minecraft:is_armor"
+    "minecraft:is_armor",
+    "minecraft:is_boots"
   ],
   "minecraft:leather_leggings": [
     "minecraft:leather_tier",
-    "minecraft:is_armor"
+    "minecraft:is_armor",
+    "minecraft:is_leggings"
   ],
   "minecraft:jungle_boat": [
     "minecraft:boats",
@@ -323,73 +327,89 @@
   ],
   "minecraft:iron_chestplate": [
     "minecraft:is_armor",
-    "minecraft:iron_tier"
+    "minecraft:iron_tier",
+    "minecraft:is_chestplate"
   ],
   "minecraft:iron_leggings": [
     "minecraft:is_armor",
-    "minecraft:iron_tier"
+    "minecraft:iron_tier",
+    "minecraft:is_leggings"
   ],
   "minecraft:netherite_helmet": [
     "minecraft:is_armor",
-    "minecraft:netherite_tier"
+    "minecraft:netherite_tier",
+    "minecraft:is_helmet"
   ],
   "minecraft:chainmail_helmet": [
     "minecraft:is_armor",
-    "minecraft:chainmail_tier"
+    "minecraft:chainmail_tier",
+    "minecraft:is_helmet"
   ],
   "minecraft:golden_boots": [
     "minecraft:is_armor",
-    "minecraft:golden_tier"
+    "minecraft:golden_tier",
+    "minecraft:is_boots"
   ],
   "minecraft:netherite_chestplate": [
     "minecraft:is_armor",
-    "minecraft:netherite_tier"
+    "minecraft:netherite_tier",
+    "minecraft:is_chestplate"
   ],
   "minecraft:iron_helmet": [
     "minecraft:is_armor",
-    "minecraft:iron_tier"
+    "minecraft:iron_tier",
+    "minecraft:is_helmet"
   ],
   "minecraft:chainmail_leggings": [
     "minecraft:is_armor",
-    "minecraft:chainmail_tier"
+    "minecraft:chainmail_tier",
+    "minecraft:is_leggings"
   ],
   "minecraft:turtle_helmet": [
     "minecraft:is_armor"
   ],
   "minecraft:diamond_helmet": [
     "minecraft:is_armor",
-    "minecraft:diamond_tier"
+    "minecraft:diamond_tier",
+    "minecraft:is_helmet"
   ],
   "minecraft:diamond_boots": [
     "minecraft:is_armor",
-    "minecraft:diamond_tier"
+    "minecraft:diamond_tier",
+    "minecraft:is_boots"
   ],
   "minecraft:golden_leggings": [
     "minecraft:is_armor",
-    "minecraft:golden_tier"
+    "minecraft:golden_tier",
+    "minecraft:is_leggings"
   ],
   "minecraft:diamond_chestplate": [
     "minecraft:is_armor",
-    "minecraft:diamond_tier"
+    "minecraft:diamond_tier",
+    "minecraft:is_chestplate"
   ],
   "minecraft:elytra": [
     "minecraft:is_armor"
   ],
   "minecraft:netherite_boots": [
     "minecraft:is_armor",
-    "minecraft:netherite_tier"
+    "minecraft:netherite_tier",
+    "minecraft:is_boots"
   ],
   "minecraft:iron_boots": [
     "minecraft:is_armor",
-    "minecraft:iron_tier"
+    "minecraft:iron_tier",
+    "minecraft:is_boots"
   ],
   "minecraft:netherite_leggings": [
     "minecraft:is_armor",
-    "minecraft:netherite_tier"
+    "minecraft:netherite_tier",
+    "minecraft:is_leggings"
   ],
   "minecraft:diamond_leggings": [
     "minecraft:is_armor",
-    "minecraft:diamond_tier"
+    "minecraft:diamond_tier",
+    "minecraft:is_leggings"
   ],
   "minecraft:golden_helmet": [
     "minecraft:is_armor",
@@ -397,15 +417,18 @@
   ],
   "minecraft:golden_chestplate": [
     "minecraft:is_armor",
-    "minecraft:golden_tier"
+    "minecraft:golden_tier",
+    "minecraft:is_chestplate"
   ],
   "minecraft:chainmail_chestplate": [
     "minecraft:is_armor",
-    "minecraft:chainmail_tier"
+    "minecraft:chainmail_tier",
+    "minecraft:is_chestplate"
   ],
   "minecraft:chainmail_boots": [
     "minecraft:is_armor",
-    "minecraft:chainmail_tier"
+    "minecraft:chainmail_tier",
+    "minecraft:is_boots"
   ],
   "minecraft:warped_hyphae": [
     "minecraft:logs",
